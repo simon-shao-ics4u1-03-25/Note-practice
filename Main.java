@@ -12,7 +12,7 @@ fracNum = 4.0;// 4.0!=4
 //subtraction, (-), multiplication (*), division (/), Mod (%) - remainder of division
 System.out.println(fracNum);
 //Variable call - use, when variable is not on left side of an assignment, replace the variable with a copy of value
-
+//num++ comes after all rest of codes are run, ++num are before. 
   }
 
 }
